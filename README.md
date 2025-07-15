@@ -22,10 +22,10 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](./assets/-desktop.png)
+![Desktop Screenshot](todo-desktop.png)
 
 ### 📱 Mobile View
-![Mobile Screenshot](./assets/todo-mobile.png)
+![Mobile Screenshot](todo-mobile.png)
 
 ## 📂 How to Run Locally
 
